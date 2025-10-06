@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notas y Tareas</string>
+    <string name="title_home">Notas y Tareas</string>
+    <string name="tab_notes">Notas</string>
+    <string name="tab_tasks">Tareas</string>
+    <string name="hint_search">Buscar por título o descripción…</string>
+    <string name="fab_add">Nueva nota/tarea</string>
+    <string name="empty_notes">Aún no hay notas</string>
+    <string name="empty_tasks">Aún no hay tareas</string>
+    <string name="sort">Ordenar</string>
+    <string name="search">Search</string>
+    <string name="done">Cumplida</string>
+    <string name="overdue">Vencida</string>
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+</resources>
